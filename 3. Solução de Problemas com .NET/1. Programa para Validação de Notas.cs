@@ -1,19 +1,15 @@
-
-
 using System;
 
 internal class Desafio
 {
     private static void Main()
     {
-        //declare suas variaveis corretamente
         double notaDigitada;
         double? primeiraNota = null;
         double? segundaNota = null;
         double media;
 
         int opcaoSelecionada = 1;
-        //continue a solução ou implemente da sua maneira
 
         while (opcaoSelecionada != 2)
         {
